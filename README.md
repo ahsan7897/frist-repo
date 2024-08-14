@@ -1,4 +1,17 @@
-# frist-repo
-this is my frist git repository.
-<br>
-author~mohd ahsan abid
+<html>
+    <head>
+        <title> Ibne E Abid </title>
+    </head>
+        <body>
+            <br>
+            <br>
+            <br>
+            ASTAGHFIRULLAH<br>
+            <br>
+            ALHUMDULLIAH<br>
+            <br>
+            SUBHAnALLAH<br>
+            <br>
+            ALLAH HU AKBAR
+            </body>
+        </html>
